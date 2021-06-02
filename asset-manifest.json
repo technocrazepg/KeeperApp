@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KeeperApp/static/css/main.02772cb9.chunk.css",
+    "main.js": "/KeeperApp/static/js/main.596b59dc.chunk.js",
+    "main.js.map": "/KeeperApp/static/js/main.596b59dc.chunk.js.map",
+    "runtime-main.js": "/KeeperApp/static/js/runtime-main.6228f561.js",
+    "runtime-main.js.map": "/KeeperApp/static/js/runtime-main.6228f561.js.map",
+    "static/js/2.4bc33e38.chunk.js": "/KeeperApp/static/js/2.4bc33e38.chunk.js",
+    "static/js/2.4bc33e38.chunk.js.map": "/KeeperApp/static/js/2.4bc33e38.chunk.js.map",
+    "static/js/3.9323dbb4.chunk.js": "/KeeperApp/static/js/3.9323dbb4.chunk.js",
+    "static/js/3.9323dbb4.chunk.js.map": "/KeeperApp/static/js/3.9323dbb4.chunk.js.map",
+    "index.html": "/KeeperApp/index.html",
+    "static/css/main.02772cb9.chunk.css.map": "/KeeperApp/static/css/main.02772cb9.chunk.css.map",
+    "static/js/2.4bc33e38.chunk.js.LICENSE.txt": "/KeeperApp/static/js/2.4bc33e38.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/KeeperApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6228f561.js",
+    "static/js/2.4bc33e38.chunk.js",
+    "static/css/main.02772cb9.chunk.css",
+    "static/js/main.596b59dc.chunk.js"
+  ]
+}
