@@ -52,7 +52,7 @@ footer p{
     border : 1px solid black; 
     box-shadow: 3px 4px 5px #ccc;
 }
-.note h1{
+.note h2{
     font-size: 1.1rem;
     margin-bottom: 10px;
     margin-top: -10px;
@@ -62,6 +62,7 @@ footer p{
     background-color: #fff;
     white-space: pre-wrap;
     word-wrap: break-word;
+    color: red;
    }
 .note p{
     font-size: 1.1rem;
